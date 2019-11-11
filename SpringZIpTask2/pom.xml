@@ -27,7 +27,7 @@
     <artifactId>jstl</artifactId>
     <version>1.2</version>
 </dependency>
-    <!-- https://mvnrepository.com/artifact/taglibs/standard -->
+    <-- taglib jars-->
 <dependency>
     <groupId>taglibs</groupId>
     <artifactId>standard</artifactId>
